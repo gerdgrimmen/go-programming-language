@@ -1,0 +1,6 @@
+PUSH, 2,
+PUSH, 3,
+ADD,
+JMPLT, 10, 2,
+PRINT,
+HALT,
